@@ -1,5 +1,5 @@
-## tails of the unit line
-# a open source fantasia on an discontinuous collections of fractions
+# tails of the unit line
+## a open source fantasia on an discontinuous collections of fractions
 
 Objective - to decorate the unit line segment [0, 1]
 
