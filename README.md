@@ -34,11 +34,11 @@ Or as digits:
 
 How many fractions are there of relevance?
 
-M = ½ a~2~ + ⅔ a~3~ + ¾ a~4~ + ⅘ a~5~ …
+M = ½ a<sub>2</sub> + ⅔ a<sub>3e</sub> + ¾ a<sub>4</sub> + ⅘ a<sub>5</sub> …
 
-We need some choice of weights a~i~ so  M = 1.
+We need some choice of weights a<sub>i</sub> so  M = 1.
 
-Pick a~i~ = 1/(i-1)
+Pick a<sub>i</sub> = 1/(i-1)
 
 This sum diverges - but very slowly.  If we cut off the fractions at some denominator, then it has a finite and fairly low sum.
 
