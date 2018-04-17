@@ -11,10 +11,10 @@ using Int = int_fast64_t;
 
 enum class Units : Int {
     shannon = 1,
-    subotnik = 0x7F * shannon,
-    schuman = 0x7F * subotnik,
-    shepard = 0x7F * schuman,
-    stockhausen = 0x7F * shepard,
+    subotnik = 0x80 * shannon,
+    schuman = 0x80 * subotnik,
+    shepard = 0x80 * schuman,
+    stockhausen = 0x80 * shepard,
 };
 
 static const auto RANGE = Int(Units::stockhausen) / Int(Units::subotnik);
