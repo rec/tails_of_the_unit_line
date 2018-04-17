@@ -32,6 +32,6 @@ Or as digits:
     Sto  She  Sch  Sub  Sha
     7F | 7F | 7F | 7F | 7F
 
-We're going to choose [the harmonic series of primes]
-(http://mathworld.wolfram.com/HarmonicSeriesofPrimes.html) 
+We're going to choose 
+[the harmonic series of primes](http://mathworld.wolfram.com/HarmonicSeriesofPrimes.html) 
 as the basis for our fraction collection.
