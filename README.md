@@ -1,5 +1,5 @@
 ## tails of the unit line
-# a open source fantasia on a continuous collections of fractions
+# a open source fantasia on an discontinuous collections of fractions
 
 Objective - to decorate the unit line segment [0, 1]
 
@@ -32,13 +32,6 @@ Or as digits:
     Sto  She  Sch  Sub  Sha
     7F | 7F | 7F | 7F | 7F
 
-How many fractions are there of relevance?
-
-M = ½ a<sub>2</sub> + ⅔ a<sub>3e</sub> + ¾ a<sub>4</sub> + ⅘ a<sub>5</sub> …
-
-We need some choice of weights a<sub>i</sub> so  M = 1.
-
-Pick a<sub>i</sub> = 1/(i-1)
-
-This sum diverges - but very slowly.  If we cut off the fractions at some denominator, then it has a finite and fairly low sum.
-
+We're going to choose [the harmonic series of primes]
+(http://mathworld.wolfram.com/HarmonicSeriesofPrimes.html) 
+as the basis for our fraction collection.
